@@ -6,7 +6,8 @@
 <br />
 
 ## Projects
-* **[ShellyALPM](https://github.com/Seafoam-Labs/Shelly-ALPM):** Pacman alternative for ArchLinux, designed with you in mind. 
+* **[ShellyALPM](https://github.com/Seafoam-Labs/Shelly-ALPM):** Pacman alternative for ArchLinux, designed with you in mind.
+* **[Starfish](https://github.com/Seafoam-Labs/Starfish):** Visual Depdency Viewer for Arch Packages
 
 ## Conact Us At
 * developers@shellyalpm.com
