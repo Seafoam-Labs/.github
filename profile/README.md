@@ -9,6 +9,8 @@
 * **[ShellyALPM](https://github.com/Seafoam-Labs/Shelly-ALPM):** Pacman alternative for ArchLinux, designed with you in mind.
 * **[Starfish](https://github.com/Seafoam-Labs/Starfish):** Visual dependency viewer for Arch packages.
 * **[Aqueous](https://github.com/Seafoam-Labs/Aqueous):** Astal/GTK 4 Desktop Shell/Window Manager for Wayfire.
+## Our Fluxer
+* https://fluxer.gg/vOjrMXcE
 ## Conact Us At
 * developers@shellyalpm.com
 * [Zoey's Bluesky](https://bsky.app/profile/zoeyerinbauer.bsky.social)
