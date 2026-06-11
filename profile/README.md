@@ -9,7 +9,7 @@ Open-source tools for Arch Linux and beyond - designed with you in mind.
 
 * **Website:** https://www.seafoam-labs.org/
 * **Fluxer:** https://fluxer.gg/vOjrMXcE
-* **Contact:** developers@shellyalpm.com
+* **Contact:** developers@seafoamlabs.org
 
 ## Projects
 * **[ShellyALPM](https://github.com/Seafoam-Labs/Shelly-ALPM):** Pacman alternative for ArchLinux, designed with you in mind.
