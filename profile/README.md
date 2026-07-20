@@ -14,7 +14,7 @@ Open-source tools for Arch Linux and beyond - designed with you in mind.
 ## Projects
 * **[ShellyALPM](https://github.com/Seafoam-Labs/Shelly-ALPM):** Pacman alternative for ArchLinux, designed with you in mind.
 * **[Starfish](https://github.com/Seafoam-Labs/Starfish):** Visual dependency viewer for Arch packages.
-* **[Aqueous](https://github.com/Seafoam-Labs/Aqueous):** Dotnet based Window Manager on top of [River](https://codeberg.org/river/river).
+* **[Aqueous](https://github.com/Seafoam-Labs/Aqueous):** Zig based compositor and window manager inspired by [River](https://codeberg.org/river/river).
 * **[Pori](https://github.com/Seafoam-Labs/Pori):** An easy systemd drive mounter.
 
 ### Powered by
