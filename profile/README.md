@@ -13,8 +13,8 @@ Open-source tools for Arch Linux and beyond - designed with you in mind.
 * **Patreon:** https://www.patreon.com/cw/SeafoamLabs
 
 ## Projects
-* **[ShellyALPM](https://github.com/Seafoam-Labs/Shelly-ALPM):** Pacman alternative for ArchLinux, designed with you in mind.
-* **[Starfish](https://github.com/Seafoam-Labs/Starfish):** Visual dependency viewer for Arch packages.
+* **[ShellyALPM](https://github.com/Seafoam-Labs/Shelly-ALPM):** Linux package manager, designed with you in mind.
+* **[Devario](https://github.com/Seafoam-Labs/devario-os):** Devario is an independent Linux distro based on Shelly and Seafoam-Labs tooling.
 * **[Aqueous](https://github.com/Seafoam-Labs/Aqueous):** Zig based compositor and window manager inspired by [River](https://codeberg.org/river/river).
 * **[Pori](https://github.com/Seafoam-Labs/Pori):** An easy systemd drive mounter.
 
